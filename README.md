@@ -17,11 +17,7 @@ A food recipe website where users can explore and cook a variety of meals.
 
 ## How to run
 1. Install all the project dependencies required to run the application.
-In the project directory, you can run:
-
-### `npm start`
+`npm install`
 
 2. Runs the app in development mode.
-```bash
 `npm start`
-exit
