@@ -19,8 +19,9 @@ A food recipe website where users can explore and cook a variety of meals.
 1. Install all the project dependencies required to run the application.
 ```bash
 `npm install`
-```bash
+exit
 
 2. Runs the app in development mode.
-
+```bash
 `npm start`
+exit
