@@ -18,10 +18,10 @@ A food recipe website where users can explore and cook a variety of meals.
 ## How to run
 1. Install all the project dependencies required to run the application.
 
-###`npm install`
+`npm install`
 
 2. Runs the app in development mode.
 
-###`npm start`
+`npm start`
 
 3. Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
