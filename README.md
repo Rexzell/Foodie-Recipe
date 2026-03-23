@@ -9,10 +9,11 @@ A food recipe website where users can explore and cook a variety of meals.
 - JavaScript
 
 ## Features
-- Responsive UI
-- User-friendly interface
-- Interactive Recipe Cards
-- 
+- Responsive UI  
+- User-friendly interface  
+- Interactive recipe cards (hover animations)
+- Search bar for searching recipes  
+- Displays real recipes using the Spoonacular API  
 - Fast loading and lightweight design
 
 ## How to run
