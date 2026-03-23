@@ -16,5 +16,7 @@ A food recipe website where users can explore and cook a variety of meals.
 - Fast loading and lightweight design
 
 ## How to run
-1. Install all the project dependencies required to run the application.
+## 1. Install all the project dependencies required to run the application.
 ### `npm install`
+## 2. Runs the app in development mode.
+### `npm start`
